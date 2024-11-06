@@ -1,0 +1,1 @@
+Rename userConfig.json to config.json and fill in proper values for wifi and mqtt sections
